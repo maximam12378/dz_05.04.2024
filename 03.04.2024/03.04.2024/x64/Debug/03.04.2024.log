@@ -1,0 +1,12 @@
+﻿  MyString.cpp
+D:\Projects_ITSTEP\Classwork\C++\Procedural programming С++\03.04.2024\03.04.2024\MyString.h(51,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyString.cpp')
+  
+D:\Projects_ITSTEP\Classwork\C++\Procedural programming С++\03.04.2024\03.04.2024\MyString.h(59,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyString.cpp')
+  
+D:\Projects_ITSTEP\Classwork\C++\Procedural programming С++\03.04.2024\03.04.2024\MyString.h(142,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyString.cpp')
+  
+MyString.obj : error LNK2001: unresolved external symbol "public: static int MyString::counter" (?counter@MyString@@2HA)
+D:\Projects_ITSTEP\Classwork\C++\Procedural programming С++\03.04.2024\x64\Debug\03.04.2024.exe : fatal error LNK1120: 1 unresolved externals
